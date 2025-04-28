@@ -1,4 +1,0 @@
-requirement.txt
-fastapi
-uvicorn
-mysql-connector-python
